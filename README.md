@@ -5,4 +5,6 @@ This solution contains a series of classes, templates and tools to make Gettext 
 
 See the walkthrough on [how to create a hello world console project](https://github.com/madhon/gettext-cs-utils/wiki/Sample-Console-Project) using these tools for getting started with the solution.
 
-After that, you may want to check the walkthrough on using a database as a storage for internationalized resources, or how to apply Gettext internationalization to your ASP NET MVC project. 
+After that, you may want to check the walkthrough on [using a database as a storage for internationalized resources](https://github.com/madhon/gettext-cs-utils/wiki/Sample-Database-Project)
+, or [how to apply Gettext internationalization to your ASP NET MVC project](https://github.com/madhon/gettext-cs-utils/wiki/Sample-MVC-Project)
+
